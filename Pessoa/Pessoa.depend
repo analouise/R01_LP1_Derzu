@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575312477 source:c:\users\aluno\desktop\lista01\pessoa\main.cpp
+	<iostream>
+	"Pessoa.h"
+
+1575310986 source:c:\users\aluno\desktop\lista01\pessoa\src\pessoa.cpp
+	"Pessoa.h"
+
+1575312291 c:\users\aluno\desktop\lista01\pessoa\include\pessoa.h
+	<string>
+

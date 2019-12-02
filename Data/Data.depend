@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1575322895 source:/home/louise/Documentos/P2/LP1/Derzu_R01/Data/main.cpp
+	<iostream>
+	"Data.h"
+
+1575323023 /home/louise/Documentos/P2/LP1/Derzu_R01/Data/include/Data.h
+
+1575323235 source:/home/louise/Documentos/P2/LP1/Derzu_R01/Data/src/Data.cpp
+	"Data.h"
+
