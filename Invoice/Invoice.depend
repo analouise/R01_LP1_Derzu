@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575331534 source:/home/louise/Documentos/P2/LP1/Derzu_R01/Invoice/main.cpp
+	<iostream>
+	"Invoice.h"
+
+1575331552 /home/louise/Documentos/P2/LP1/Derzu_R01/Invoice/include/Invoice.h
+	<string>
+
